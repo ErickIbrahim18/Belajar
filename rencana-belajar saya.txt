@@ -1,6 +1,7 @@
-Belajar HTML
+
 Belajar CSS
 Belajar Javascript
 Belajar Framework : Laravel dan CI
 Belajar API
-Belajar ES6
+Belajar menggunakan Bootstrap
+Belajar javascript react
