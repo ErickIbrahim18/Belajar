@@ -1,5 +1,5 @@
 Belajar HTML
 Belajar CSS
 Belajar Javascript
-Belajar Framework
+Belajar Framework : Laravel dan CI
 Belajar API
