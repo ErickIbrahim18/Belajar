@@ -3,3 +3,4 @@ Belajar CSS
 Belajar Javascript
 Belajar Framework : Laravel dan CI
 Belajar API
+Belajar ES6
